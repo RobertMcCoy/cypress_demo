@@ -1,0 +1,23 @@
+{
+  "name": "cypress_demo",
+  "version": "1.0.0",
+  "description": "Welcome to the Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "node_modules\\.bin\\cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertMcCoy/cypress_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertMcCoy/cypress_demo/issues"
+  },
+  "homepage": "https://github.com/RobertMcCoy/cypress_demo#readme",
+  "devDependencies": {
+    "cypress": "^3.1.1"
+  }
+}
